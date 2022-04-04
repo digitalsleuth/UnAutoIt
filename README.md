@@ -1,4 +1,4 @@
-![Github stats](https://img.shields.io/github/downloads/x0r19x91/UnAutoIt/total.svg?style=for-the-badge&color=red)
+![Github stats](https://img.shields.io/github/downloads/digitalsleuth/UnAutoIt/total.svg?style=for-the-badge&color=red)
 ![Licence](https://img.shields.io/badge/license-GPLv3-blue.svg?style=for-the-badge)  
 ![MadeWithGo](https://forthebadge.com/images/badges/made-with-go.svg)
 
